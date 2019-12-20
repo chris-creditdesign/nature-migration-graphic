@@ -1,0 +1,400 @@
+origin_region,destination_region,origin,destination,value
+North America-o,North America-d,United States-o,Canada-d,4573
+Africa-o,North America-d,Burundi-o,Canada-d,2074
+Africa-o,North America-d,Côte d'Ivoire-o,United States-d,1574
+Africa-o,North America-d,Cameroon-o,Canada-d,1103
+Africa-o,North America-d,Cameroon-o,United States-d,4530
+Africa-o,North America-d,Democratic Republic of the Congo-o,Canada-d,3316
+Africa-o,North America-d,Egypt-o,United States-d,10852
+Africa-o,North America-d,Eritrea-o,Canada-d,1811
+Africa-o,North America-d,Eritrea-o,United States-d,4085
+Africa-o,North America-d,Ethiopia-o,Canada-d,2047
+Africa-o,North America-d,Ethiopia-o,United States-d,10566
+Africa-o,North America-d,Kenya-o,United States-d,2258
+Africa-o,North America-d,Mali-o,United States-d,1239
+Africa-o,North America-d,Mauritania-o,United States-d,1174
+Africa-o,North America-d,Nigeria-o,Canada-d,4502
+Africa-o,North America-d,Other Africa-o,United States-d,6843
+Africa-o,North America-d,Rwanda-o,Canada-d,1620
+Africa-o,North America-d,Rwanda-o,United States-d,1048
+Africa-o,North America-d,Sudan-o,United States-d,1362
+Africa-o,North America-d,Somalia-o,Canada-d,2531
+Africa-o,North America-d,Somalia-o,United States-d,2313
+Africa-o,North America-d,Uganda-o,United States-d,1231
+Africa-o,North America-d,Zimbabwe-o,Canada-d,2368
+Africa-o,North America-d,Zimbabwe-o,United States-d,1316
+Africa-o,Africa-d,Burundi-o,Democratic Republic of the Congo-d,23163
+Africa-o,Africa-d,Burundi-o,Mozambique-d,1119
+Africa-o,Africa-d,Burundi-o,Other Africa-d,4410
+Africa-o,Africa-d,Burundi-o,Rwanda-d,70848
+Africa-o,Africa-d,Burundi-o,Tanzania-d,155755
+Africa-o,Africa-d,Burundi-o,Uganda-d,26256
+Africa-o,Africa-d,Burundi-o,South Africa-d,3819
+Africa-o,Africa-d,Central African Republic-o,Cameroon-d,267463
+Africa-o,Africa-d,Central African Republic-o,Democratic Republic of the Congo-d,107929
+Africa-o,Africa-d,Central African Republic-o,Other Africa-d,23664
+Africa-o,Africa-d,Central African Republic-o,Sudan-d,1439
+Africa-o,Africa-d,Central African Republic-o,South Sudan-d,1882
+Africa-o,Africa-d,Central African Republic-o,Chad-d,63397
+Africa-o,Africa-d,Côte d'Ivoire-o,Other Africa-d,56032
+Africa-o,Africa-d,Democratic Republic of the Congo-o,Burundi-d,53029
+Africa-o,Africa-d,Democratic Republic of the Congo-o,Central African Republic-d,4798
+Africa-o,Africa-d,Democratic Republic of the Congo-o,Kenya-d,12046
+Africa-o,Africa-d,Democratic Republic of the Congo-o,Mozambique-d,3415
+Africa-o,Africa-d,Democratic Republic of the Congo-o,Other Africa-d,51178
+Africa-o,Africa-d,Democratic Republic of the Congo-o,Rwanda-d,73864
+Africa-o,Africa-d,Democratic Republic of the Congo-o,South Sudan-d,15916
+Africa-o,Africa-d,Democratic Republic of the Congo-o,Tanzania-d,55803
+Africa-o,Africa-d,Democratic Republic of the Congo-o,Uganda-d,201782
+Africa-o,Africa-d,Democratic Republic of the Congo-o,South Africa-d,32582
+Africa-o,Africa-d,Democratic Republic of the Congo-o,Zimbabwe-d,5414
+Africa-o,Africa-d,Eritrea-o,Egypt-d,1405
+Africa-o,Africa-d,Eritrea-o,Ethiopia-d,155231
+Africa-o,Africa-d,Eritrea-o,Kenya-d,1229
+Africa-o,Africa-d,Eritrea-o,Sudan-d,98676
+Africa-o,Africa-d,Eritrea-o,Uganda-d,3401
+Africa-o,Africa-d,Eritrea-o,South Africa-d,2338
+Africa-o,Africa-d,Western Sahara-o,Algeria-d,90000
+Africa-o,Africa-d,Western Sahara-o,Mauritania-d,26007
+Africa-o,Africa-d,Ethiopia-o,Egypt-d,1085
+Africa-o,Africa-d,Ethiopia-o,Kenya-d,21229
+Africa-o,Africa-d,Ethiopia-o,Sudan-d,3194
+Africa-o,Africa-d,Ethiopia-o,Somalia-d,2756
+Africa-o,Africa-d,Ethiopia-o,South Sudan-d,4200
+Africa-o,Africa-d,Ethiopia-o,Uganda-d,1495
+Africa-o,Africa-d,Ethiopia-o,South Africa-d,20324
+Africa-o,Africa-d,Kenya-o,Ethiopia-d,3193
+Africa-o,Africa-d,Mali-o,Burkina Faso-d,33574
+Africa-o,Africa-d,Mali-o,Mauritania-d,50233
+Africa-o,Africa-d,Mali-o,Niger-d,56012
+Africa-o,Africa-d,Mauritania-o,Mali-d,13539
+Africa-o,Africa-d,Mauritania-o,Other Africa-d,13687
+Africa-o,Africa-d,Nigeria-o,Cameroon-d,71840
+Africa-o,Africa-d,Nigeria-o,Niger-d,68321
+Africa-o,Africa-d,Nigeria-o,Chad-d,5689
+Africa-o,Africa-d,Other Africa-o,Côte d'Ivoire-d,1040
+Africa-o,Africa-d,Other Africa-o,Other Africa-d,42066
+Africa-o,Africa-d,Other Africa-o,South Africa-d,9608
+Africa-o,Africa-d,Rwanda-o,Democratic Republic of the Congo-d,245052
+Africa-o,Africa-d,Rwanda-o,Other Africa-d,12213
+Africa-o,Africa-d,Rwanda-o,Uganda-d,14714
+Africa-o,Africa-d,Rwanda-o,South Africa-d,1881
+Africa-o,Africa-d,Sudan-o,Central African Republic-d,1987
+Africa-o,Africa-d,Sudan-o,Egypt-d,11296
+Africa-o,Africa-d,Sudan-o,Ethiopia-d,37785
+Africa-o,Africa-d,Sudan-o,Kenya-d,3419
+Africa-o,Africa-d,Sudan-o,South Sudan-d,241002
+Africa-o,Africa-d,Sudan-o,Chad-d,299750
+Africa-o,Africa-d,Sudan-o,Uganda-d,1992
+Africa-o,Africa-d,Somalia-o,Egypt-d,4491
+Africa-o,Africa-d,Somalia-o,Eritrea-d,2485
+Africa-o,Africa-d,Somalia-o,Ethiopia-d,256669
+Africa-o,Africa-d,Somalia-o,Kenya-d,417920
+Africa-o,Africa-d,Somalia-o,Other Africa-d,14726
+Africa-o,Africa-d,Somalia-o,Uganda-d,27720
+Africa-o,Africa-d,Somalia-o,South Africa-d,41458
+Africa-o,Africa-d,South Sudan-o,Democratic Republic of the Congo-d,5597
+Africa-o,Africa-d,South Sudan-o,Egypt-d,1686
+Africa-o,Africa-d,South Sudan-o,Ethiopia-d,281508
+Africa-o,Africa-d,South Sudan-o,Kenya-d,95671
+Africa-o,Africa-d,South Sudan-o,Sudan-d,194404
+Africa-o,Africa-d,South Sudan-o,Uganda-d,199359
+Africa-o,Africa-d,Chad-o,Cameroon-d,1798
+Africa-o,Africa-d,Chad-o,Sudan-d,8894
+Africa-o,Africa-d,Zimbabwe-o,South Africa-d,6358
+Africa-o,Europe-d,Central African Republic-o,France-d,1607
+Africa-o,Europe-d,Côte d'Ivoire-o,France-d,2654
+Africa-o,Europe-d,Côte d'Ivoire-o,Italy-d,5079
+Africa-o,Europe-d,Democratic Republic of the Congo-o,Belgium-d,1008
+Africa-o,Europe-d,Democratic Republic of the Congo-o,Switzerland-d,1346
+Africa-o,Europe-d,Democratic Republic of the Congo-o,Germany-d,1537
+Africa-o,Europe-d,Democratic Republic of the Congo-o,France-d,14182
+Africa-o,Europe-d,Democratic Republic of the Congo-o,United Kingdom-d,1473
+Africa-o,Europe-d,Algeria-o,France-d,1384
+Africa-o,Europe-d,Egypt-o,Italy-d,1397
+Africa-o,Europe-d,Eritrea-o,Switzerland-d,21000
+Africa-o,Europe-d,Eritrea-o,Germany-d,10980
+Africa-o,Europe-d,Eritrea-o,Denmark-d,3213
+Africa-o,Europe-d,Eritrea-o,France-d,2208
+Africa-o,Europe-d,Eritrea-o,United Kingdom-d,12383
+Africa-o,Europe-d,Eritrea-o,Italy-d,11962
+Africa-o,Europe-d,Eritrea-o,Netherlands-d,10870
+Africa-o,Europe-d,Eritrea-o,Norway-d,13490
+Africa-o,Europe-d,Eritrea-o,Sweden-d,20203
+Africa-o,Europe-d,Ethiopia-o,Switzerland-d,1019
+Africa-o,Europe-d,Ethiopia-o,Germany-d,2657
+Africa-o,Europe-d,Ethiopia-o,United Kingdom-d,1006
+Africa-o,Europe-d,Ethiopia-o,Italy-d,1894
+Africa-o,Europe-d,Ethiopia-o,Norway-d,2012
+Africa-o,Europe-d,Mali-o,France-d,4050
+Africa-o,Europe-d,Mali-o,Italy-d,8334
+Africa-o,Europe-d,Mauritania-o,France-d,5066
+Africa-o,Europe-d,Nigeria-o,France-d,1250
+Africa-o,Europe-d,Nigeria-o,United Kingdom-d,1679
+Africa-o,Europe-d,Nigeria-o,Italy-d,9931
+Africa-o,Europe-d,Other Africa-o,Belgium-d,3150
+Africa-o,Europe-d,Other Africa-o,Germany-d,1188
+Africa-o,Europe-d,Other Africa-o,France-d,12579
+Africa-o,Europe-d,Other Africa-o,United Kingdom-d,2373
+Africa-o,Europe-d,Other Africa-o,Italy-d,13514
+Africa-o,Europe-d,Other Africa-o,Malta-d,1544
+Africa-o,Europe-d,Rwanda-o,France-d,2795
+Africa-o,Europe-d,Sudan-o,France-d,4146
+Africa-o,Europe-d,Sudan-o,United Kingdom-d,6076
+Africa-o,Europe-d,Sudan-o,Italy-d,2161
+Africa-o,Europe-d,Sudan-o,Norway-d,1619
+Africa-o,Europe-d,Somalia-o,Austria-d,3406
+Africa-o,Europe-d,Somalia-o,Switzerland-d,4334
+Africa-o,Europe-d,Somalia-o,Germany-d,4860
+Africa-o,Europe-d,Somalia-o,Denmark-d,1260
+Africa-o,Europe-d,Somalia-o,Finland-d,3062
+Africa-o,Europe-d,Somalia-o,France-d,2007
+Africa-o,Europe-d,Somalia-o,United Kingdom-d,6977
+Africa-o,Europe-d,Somalia-o,Italy-d,13068
+Africa-o,Europe-d,Somalia-o,Malta-d,1865
+Africa-o,Europe-d,Somalia-o,Netherlands-d,17444
+Africa-o,Europe-d,Somalia-o,Norway-d,8600
+Africa-o,Europe-d,Somalia-o,Sweden-d,21501
+Africa-o,Europe-d,Chad-o,France-d,1232
+Africa-o,Europe-d,Tanzania-o,Greece-d,5411
+Africa-o,Europe-d,Zimbabwe-o,United Kingdom-d,9045
+Africa-o,West Asia-d,Eritrea-o,Israel-d,31708
+Africa-o,West Asia-d,Eritrea-o,Yemen-d,1278
+Africa-o,West Asia-d,Ethiopia-o,Yemen-d,5645
+Africa-o,West Asia-d,Sudan-o,Israel-d,6333
+Africa-o,West Asia-d,Sudan-o,Jordan-d,1815
+Africa-o,West Asia-d,Somalia-o,Turkey-d,2364
+Africa-o,West Asia-d,Somalia-o,Yemen-d,253215
+Africa-o,Oceania-d,Egypt-o,Australia-d,1507
+Africa-o,Oceania-d,Zimbabwe-o,Australia-d,1009
+Africa-o,Latin America-d,Democratic Republic of the Congo-o,Brazil-d,1045
+Africa-o,Latin America-d,Other Africa-o,Brazil-d,1083
+Europe-o,North America-d,Albania-o,Canada-d,1243
+Europe-o,North America-d,Albania-o,United States-d,2194
+Europe-o,North America-d,Serbia-o,United States-d,1396
+Europe-o,Europe-d,Albania-o,France-d,2911
+Europe-o,Europe-d,Albania-o,United Kingdom-d,1823
+Europe-o,Europe-d,Bosnia Herzegovina-o,Switzerland-d,2274
+Europe-o,Europe-d,Bosnia Herzegovina-o,Germany-d,1412
+Europe-o,Europe-d,Bosnia Herzegovina-o,France-d,4055
+Europe-o,Europe-d,Bosnia Herzegovina-o,Serbia-d,9287
+Europe-o,Europe-d,Croatia-o,Bosnia Herzegovina-d,6679
+Europe-o,Europe-d,Croatia-o,Serbia-d,25962
+Europe-o,Europe-d,Serbia-o,Austria-d,2199
+Europe-o,Europe-d,Serbia-o,Switzerland-d,3158
+Europe-o,Europe-d,Serbia-o,Germany-d,9157
+Europe-o,Europe-d,Serbia-o,France-d,12500
+Europe-o,Europe-d,Serbia-o,Italy-d,2620
+Europe-o,Europe-d,Serbia-o,Montenegro-d,1613
+Europe-o,Europe-d,Serbia-o,Sweden-d,2390
+Former Soviet Union-o,North America-d,Armenia-o,United States-d,2440
+Former Soviet Union-o,North America-d,Belarus-o,United States-d,1804
+Former Soviet Union-o,North America-d,Other former Soviet Union-o,United States-d,1237
+Former Soviet Union-o,North America-d,Russia-o,Canada-d,1178
+Former Soviet Union-o,North America-d,Russia-o,United States-d,5905
+Former Soviet Union-o,North America-d,Ukraine-o,Canada-d,1314
+Former Soviet Union-o,North America-d,Ukraine-o,United States-d,1486
+Former Soviet Union-o,North America-d,Uzbekistan-o,United States-d,1431
+Former Soviet Union-o,Europe-d,Armenia-o,Germany-d,1191
+Former Soviet Union-o,Europe-d,Armenia-o,France-d,4034
+Former Soviet Union-o,Europe-d,Azerbaijan-o,Germany-d,2171
+Former Soviet Union-o,Europe-d,Azerbaijan-o,France-d,2816
+Former Soviet Union-o,Europe-d,Other former Soviet Union-o,France-d,2826
+Former Soviet Union-o,Europe-d,Russia-o,Austria-d,15526
+Former Soviet Union-o,Europe-d,Russia-o,Belgium-d,2733
+Former Soviet Union-o,Europe-d,Russia-o,Germany-d,4856
+Former Soviet Union-o,Europe-d,Russia-o,Denmark-d,1026
+Former Soviet Union-o,Europe-d,Russia-o,France-d,14195
+Former Soviet Union-o,Europe-d,Russia-o,Norway-d,1851
+Former Soviet Union-o,Europe-d,Russia-o,Poland-d,12304
+Former Soviet Union-o,Europe-d,Russia-o,Sweden-d,2003
+Former Soviet Union-o,Europe-d,Ukraine-o,France-d,1038
+Former Soviet Union-o,Europe-d,Ukraine-o,Italy-d,1870
+Former Soviet Union-o,Former Soviet Union-d,Azerbaijan-o,Armenia-d,1501
+Former Soviet Union-o,Former Soviet Union-d,Ukraine-o,Belarus-d,1089
+Former Soviet Union-o,Former Soviet Union-d,Ukraine-o,Russia-d,311407
+West Asia-o,North America-d,Iraq-o,Canada-d,1892
+West Asia-o,North America-d,Iraq-o,United States-d,5760
+West Asia-o,North America-d,Syria-o,Canada-d,1513
+West Asia-o,North America-d,Syria-o,United States-d,5651
+West Asia-o,North America-d,Turkey-o,Canada-d,1991
+West Asia-o,Africa-d,Iraq-o,Egypt-d,4347
+West Asia-o,Africa-d,Iraq-o,Other Africa-d,2507
+West Asia-o,Africa-d,Palestinian territories-o,Algeria-d,4016
+West Asia-o,Africa-d,Palestinian territories-o,Egypt-d,70021
+West Asia-o,Africa-d,Palestinian territories-o,Other Africa-d,5380
+West Asia-o,Africa-d,Syria-o,Egypt-d,117635
+West Asia-o,Africa-d,Syria-o,Morocco-d,2619
+West Asia-o,Africa-d,Syria-o,Sudan-d,2692
+West Asia-o,Africa-d,Yemen-o,Ethiopia-d,1088
+West Asia-o,Africa-d,Yemen-o,Other Africa-d,6157
+West Asia-o,Africa-d,Yemen-o,Somalia-d,5183
+West Asia-o,Europe-d,Iraq-o,Austria-d,3732
+West Asia-o,Europe-d,Iraq-o,Belgium-d,1943
+West Asia-o,Europe-d,Iraq-o,Bulgaria-d,1339
+West Asia-o,Europe-d,Iraq-o,Switzerland-d,3501
+West Asia-o,Europe-d,Iraq-o,Germany-d,51396
+West Asia-o,Europe-d,Iraq-o,Finland-d,4124
+West Asia-o,Europe-d,Iraq-o,France-d,4787
+West Asia-o,Europe-d,Iraq-o,United Kingdom-d,3014
+West Asia-o,Europe-d,Iraq-o,Greece-d,4348
+West Asia-o,Europe-d,Iraq-o,Italy-d,3428
+West Asia-o,Europe-d,Iraq-o,Netherlands-d,12397
+West Asia-o,Europe-d,Iraq-o,Norway-d,4916
+West Asia-o,Europe-d,Iraq-o,Sweden-d,23886
+West Asia-o,Europe-d,Syria-o,Austria-d,14894
+West Asia-o,Europe-d,Syria-o,Belgium-d,4239
+West Asia-o,Europe-d,Syria-o,Bulgaria-d,13819
+West Asia-o,Europe-d,Syria-o,Switzerland-d,8695
+West Asia-o,Europe-d,Syria-o,Germany-d,115604
+West Asia-o,Europe-d,Syria-o,Denmark-d,12988
+West Asia-o,Europe-d,Syria-o,Spain-d,1336
+West Asia-o,Europe-d,Syria-o,France-d,5179
+West Asia-o,Europe-d,Syria-o,United Kingdom-d,6496
+West Asia-o,Europe-d,Syria-o,Greece-d,9101
+West Asia-o,Europe-d,Syria-o,Italy-d,1460
+West Asia-o,Europe-d,Syria-o,Malta-d,1328
+West Asia-o,Europe-d,Syria-o,Netherlands-d,16184
+West Asia-o,Europe-d,Syria-o,Norway-d,4121
+West Asia-o,Europe-d,Syria-o,Romania-d,1591
+West Asia-o,Europe-d,Syria-o,Sweden-d,52707
+West Asia-o,Europe-d,Turkey-o,Austria-d,1125
+West Asia-o,Europe-d,Turkey-o,Switzerland-d,3544
+West Asia-o,Europe-d,Turkey-o,Germany-d,20281
+West Asia-o,Europe-d,Turkey-o,France-d,10652
+West Asia-o,Europe-d,Turkey-o,Italy-d,2482
+West Asia-o,Former Soviet Union-d,Iraq-o,Armenia-d,1019
+West Asia-o,Former Soviet Union-d,Syria-o,Armenia-d,16611
+West Asia-o,Former Soviet Union-d,Syria-o,Russia-d,1304
+West Asia-o,West Asia-d,Iraq-o,Jordan-d,33256
+West Asia-o,West Asia-d,Iraq-o,Lebanon-d,7234
+West Asia-o,West Asia-d,Iraq-o,Syria-d,18253
+West Asia-o,West Asia-d,Iraq-o,Turkey-d,24135
+West Asia-o,West Asia-d,Iraq-o,Yemen-d,3404
+West Asia-o,West Asia-d,Palestinian territories-o,Iraq-d,9250
+West Asia-o,West Asia-d,Palestinian territories-o,Other West Asia-d,1786
+West Asia-o,West Asia-d,Syria-o,Iraq-d,244642
+West Asia-o,West Asia-d,Syria-o,Jordan-d,628223
+West Asia-o,West Asia-d,Syria-o,Lebanon-d,1062690
+West Asia-o,West Asia-d,Syria-o,Other West Asia-d,3110
+West Asia-o,West Asia-d,Syria-o,Turkey-d,2503549
+West Asia-o,West Asia-d,Syria-o,Yemen-d,3011
+West Asia-o,West Asia-d,Turkey-o,Iraq-d,15557
+West Asia-o,South Asia-d,Iraq-o,Iran-d,28268
+West Asia-o,Oceania-d,Iraq-o,Australia-d,2925
+West Asia-o,Latin America-d,Syria-o,Brazil-d,2271
+South Asia-o,North America-d,Afghanistan-o,Canada-d,2890
+South Asia-o,North America-d,Afghanistan-o,United States-d,1361
+South Asia-o,North America-d,Bangladesh-o,Canada-d,1112
+South Asia-o,North America-d,Bangladesh-o,United States-d,1121
+South Asia-o,North America-d,India-o,Canada-d,3712
+South Asia-o,North America-d,India-o,United States-d,4581
+South Asia-o,North America-d,Iran-o,Canada-d,2639
+South Asia-o,North America-d,Iran-o,United States-d,5216
+South Asia-o,North America-d,Sri Lanka-o,Canada-d,8807
+South Asia-o,North America-d,Sri Lanka-o,United States-d,1313
+South Asia-o,North America-d,Other South Asia-o,Canada-d,1304
+South Asia-o,North America-d,Other South Asia-o,United States-d,6605
+South Asia-o,North America-d,Pakistan-o,Canada-d,7207
+South Asia-o,North America-d,Pakistan-o,United States-d,3111
+South Asia-o,Europe-d,Afghanistan-o,Austria-d,17458
+South Asia-o,Europe-d,Afghanistan-o,Belgium-d,2934
+South Asia-o,Europe-d,Afghanistan-o,Switzerland-d,4686
+South Asia-o,Europe-d,Afghanistan-o,Germany-d,30026
+South Asia-o,Europe-d,Afghanistan-o,Denmark-d,2166
+South Asia-o,Europe-d,Afghanistan-o,Finland-d,1406
+South Asia-o,Europe-d,Afghanistan-o,France-d,4397
+South Asia-o,Europe-d,Afghanistan-o,United Kingdom-d,9354
+South Asia-o,Europe-d,Afghanistan-o,Greece-d,5223
+South Asia-o,Europe-d,Afghanistan-o,Italy-d,12203
+South Asia-o,Europe-d,Afghanistan-o,Netherlands-d,5803
+South Asia-o,Europe-d,Afghanistan-o,Norway-d,5684
+South Asia-o,Europe-d,Afghanistan-o,Sweden-d,13064
+South Asia-o,Europe-d,Bangladesh-o,France-d,3960
+South Asia-o,Europe-d,Bangladesh-o,Italy-d,2545
+South Asia-o,Europe-d,Iran-o,Austria-d,3379
+South Asia-o,Europe-d,Iran-o,Switzerland-d,1604
+South Asia-o,Europe-d,Iran-o,Germany-d,19763
+South Asia-o,Europe-d,Iran-o,Denmark-d,2009
+South Asia-o,Europe-d,Iran-o,France-d,2417
+South Asia-o,Europe-d,Iran-o,United Kingdom-d,12667
+South Asia-o,Europe-d,Iran-o,Italy-d,1573
+South Asia-o,Europe-d,Iran-o,Netherlands-d,4125
+South Asia-o,Europe-d,Iran-o,Norway-d,1487
+South Asia-o,Europe-d,Iran-o,Sweden-d,4232
+South Asia-o,Europe-d,Sri Lanka-o,Switzerland-d,4989
+South Asia-o,Europe-d,Sri Lanka-o,Germany-d,3920
+South Asia-o,Europe-d,Sri Lanka-o,France-d,24220
+South Asia-o,Europe-d,Sri Lanka-o,United Kingdom-d,5279
+South Asia-o,Europe-d,Pakistan-o,Germany-d,4702
+South Asia-o,Europe-d,Pakistan-o,United Kingdom-d,6319
+South Asia-o,Europe-d,Pakistan-o,Italy-d,9202
+South Asia-o,Former Soviet Union-d,Afghanistan-o,Other former Soviet Union-d,1950
+South Asia-o,Former Soviet Union-d,Afghanistan-o,Ukraine-d,1520
+South Asia-o,West Asia-d,Afghanistan-o,Syria-d,1213
+South Asia-o,West Asia-d,Afghanistan-o,Turkey-d,3846
+South Asia-o,West Asia-d,Iran-o,Iraq-d,8231
+South Asia-o,West Asia-d,Iran-o,Turkey-d,5262
+South Asia-o,South Asia-d,Afghanistan-o,India-d,10196
+South Asia-o,South Asia-d,Afghanistan-o,Iran-d,951142
+South Asia-o,South Asia-d,Afghanistan-o,Pakistan-d,1560592
+South Asia-o,South Asia-d,Sri Lanka-o,India-d,64208
+South Asia-o,South Asia-d,Other South Asia-o,Other South Asia-d,17134
+South Asia-o,South Asia-d,Pakistan-o,Afghanistan-d,257523
+South Asia-o,Southeast Asia-d,Afghanistan-o,Indonesia-d,2890
+South Asia-o,Southeast Asia-d,Sri Lanka-o,Malaysia-d,1545
+South Asia-o,Oceania-d,Afghanistan-o,Australia-d,7785
+South Asia-o,Oceania-d,Iran-o,Australia-d,5201
+South Asia-o,Oceania-d,Sri Lanka-o,Australia-d,3556
+South Asia-o,Oceania-d,Pakistan-o,Australia-d,3333
+East Asia-o,North America-d,China-o,Canada-d,11415
+East Asia-o,North America-d,China-o,United States-d,74020
+East Asia-o,Europe-d,China-o,Belgium-d,1305
+East Asia-o,Europe-d,China-o,Switzerland-d,3022
+East Asia-o,Europe-d,China-o,Germany-d,1406
+East Asia-o,Europe-d,China-o,France-d,3260
+East Asia-o,Europe-d,China-o,United Kingdom-d,1837
+East Asia-o,Europe-d,China-o,Netherlands-d,1236
+East Asia-o,South Asia-d,China-o,India-d,110098
+East Asia-o,South Asia-d,China-o,Other South Asia-d,15000
+East Asia-o,Oceania-d,China-o,Australia-d,2955
+Southeast Asia-o,North America-d,Indonesia-o,United States-d,3183
+Southeast Asia-o,North America-d,Myanmar-o,United States-d,1999
+Southeast Asia-o,Europe-d,Other Southeast Asia-o,France-d,18768
+Southeast Asia-o,Europe-d,Vietnam-o,Switzerland-d,1130
+Southeast Asia-o,Europe-d,Vietnam-o,Germany-d,1357
+Southeast Asia-o,Europe-d,Vietnam-o,France-d,8132
+Southeast Asia-o,South Asia-d,Myanmar-o,Bangladesh-d,231948
+Southeast Asia-o,South Asia-d,Myanmar-o,India-d,15735
+Southeast Asia-o,East Asia-d,Myanmar-o,Japan-d,1826
+Southeast Asia-o,East Asia-d,Vietnam-o,China-d,300896
+Southeast Asia-o,Southeast Asia-d,Myanmar-o,Malaysia-d,88637
+Southeast Asia-o,Southeast Asia-d,Myanmar-o,Thailand-d,106349
+Southeast Asia-o,Oceania-d,Indonesia-o,Other Oceania-d,9368
+Stateless-o,North America-d,Stateless-o,Canada-d,1503
+Stateless-o,Europe-d,Stateless-o,Austria-d,2457
+Stateless-o,Europe-d,Stateless-o,Germany-d,2935
+Stateless-o,Europe-d,Stateless-o,Denmark-d,1958
+Stateless-o,Europe-d,Stateless-o,United Kingdom-d,1407
+Stateless-o,Europe-d,Stateless-o,Netherlands-d,3714
+Stateless-o,Europe-d,Stateless-o,Norway-d,3005
+Stateless-o,Europe-d,Stateless-o,Sweden-d,15410
+Stateless-o,Oceania-d,Stateless-o,Australia-d,1727
+Latin America-o,North America-d,Colombia-o,Canada-d,13666
+Latin America-o,North America-d,Colombia-o,United States-d,8043
+Latin America-o,North America-d,Guatemala-o,United States-d,8864
+Latin America-o,North America-d,Honduras-o,United States-d,4918
+Latin America-o,North America-d,Mexico-o,Canada-d,6414
+Latin America-o,North America-d,Mexico-o,United States-d,4822
+Latin America-o,North America-d,Other Latin America-o,Canada-d,12097
+Latin America-o,North America-d,Other Latin America-o,United States-d,21508
+Latin America-o,North America-d,Peru-o,Canada-d,1080
+Latin America-o,North America-d,El Salvador-o,Canada-d,1403
+Latin America-o,North America-d,El Salvador-o,United States-d,11273
+Latin America-o,North America-d,Venezuela-o,United States-d,6193
+Latin America-o,Europe-d,Other Latin America-o,France-d,3445
+Latin America-o,Latin America-d,Colombia-o,Brazil-d,1280
+Latin America-o,Latin America-d,Colombia-o,Ecuador-d,120685
+Latin America-o,Latin America-d,Colombia-o,Other Latin America-d,18894
+Latin America-o,Latin America-d,Colombia-o,Venezuela-d,173673
+Latin America-o,Latin America-d,Other Latin America-o,Other Latin America-d,1118

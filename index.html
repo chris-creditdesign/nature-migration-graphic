@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<title>Interactive Test</title>
+
+	<link rel="stylesheet" href="css/style.css">
+
+	<script>
+		window.onload = function () {
+
+			function listener(event) {
+				window.parent.postMessage({height: document.querySelector("html").offsetHeight, requestData: event.data}, "*");
+			}
+
+			window.addEventListener("message", listener);
+		}
+	</script>
+</head>
+
+
+<body>
+
+	<noscript>
+		This interactive graphic requires javascript to be enabled.
+	</noscript>
+
+	<div class="status-message" id="status-message">
+		<p>This interactive graphic requires a modern browser (e.g. Chrome, Safari or Firefox) with javascript enabled.</p>
+		<p>The data used to build this graphic can be downloaded as comma-separated values here: <a href="/data/refugee-data-refine.csv">refugee-data-edit.csv</a>.</p>
+	</div>
+
+	<div class="outerwrapper" id="outerwrapper">
+		
+		<header>
+			<h1>Interactive: Where refugees are going</h1>
+			<p>Most of the 21.3 million people who were refugees at the end of 2015 had fled conflicts in Africa and Asia. The vast majority sought refuge in neighbouring countries; only a small proportion headed to Europe or the United States. Just over half of refugees worldwide come from three countries, Syria, Afghanistan and Somalia.</p>
+
+			<ul id="temp-key" class="key">
+			</ul>
+
+			<label class="widget-checkbox-label"><input type="checkbox" id="widget-top-10-checkbox" value="top-10-checkbox"> Show top ten flows</label>
+
+			<label class="widget-checkbox-label"><input type="checkbox" id="widget-continent-checkbox" value="continent-checkbox"> Group countries by continent</label>
+		</header>
+
+		<main>
+			<div id="sankey-chart" class="chart">
+				<div class="widget-tooltip hidden" id="widget-tooltip">
+					<p id="tooltip-text"></p>
+				</div>
+			</div>
+		</main>
+		
+	</div>
+
+	<footer>
+		<p class="credit">Source: UNHCR. Data compiled by N. Sander, Univ. Groningen, and R. Bauer, Vienna Inst. Demography and <a href="http://www.global-refugees.info/">www.global-refugees.info</a>.</p>
+	</footer>
+	
+	<script src="js/bundle.js"></script>
+</body>
+</html>
